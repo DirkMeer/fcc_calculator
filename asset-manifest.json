@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dirkmeer.github.io/fcc_calculator/static/css/main.a463b31f.css",
+    "main.js": "/dirkmeer.github.io/fcc_calculator/static/js/main.4f87b061.js",
+    "index.html": "/dirkmeer.github.io/fcc_calculator/index.html",
+    "main.a463b31f.css.map": "/dirkmeer.github.io/fcc_calculator/static/css/main.a463b31f.css.map",
+    "main.4f87b061.js.map": "/dirkmeer.github.io/fcc_calculator/static/js/main.4f87b061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a463b31f.css",
+    "static/js/main.4f87b061.js"
+  ]
+}
